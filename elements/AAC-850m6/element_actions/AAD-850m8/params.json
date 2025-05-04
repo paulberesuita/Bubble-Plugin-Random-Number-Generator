@@ -1,0 +1,41 @@
+{
+    "caption": "getRandomNumber",
+    "fields": {
+        "AAE": {
+            "caption": "Min",
+            "default_val": 1,
+            "doc": "The minimum value for generating the random number.",
+            "editor": "DynamicValue",
+            "name": "min",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAF": {
+            "caption": "Max",
+            "default_val": 20,
+            "doc": "The maximum value for generating the random number.",
+            "editor": "DynamicValue",
+            "name": "max",
+            "rank": 1,
+            "value": "number"
+        },
+        "AAJ": {
+            "caption": "Type",
+            "default_val": "Integer",
+            "doc": "Specifies the type of random number to generate.",
+            "editor": "Dropdown",
+            "name": "type",
+            "options": "Integer,Floating Point",
+            "rank": 2
+        },
+        "AAK": {
+            "caption": "Decimal Places",
+            "default_val": 2,
+            "doc": "Number of decimal places for floating-point numbers.",
+            "editor": "DynamicValue",
+            "name": "decimalPlaces",
+            "rank": 3,
+            "value": "number"
+        }
+    }
+}

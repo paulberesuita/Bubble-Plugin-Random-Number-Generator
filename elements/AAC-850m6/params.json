@@ -1,0 +1,25 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "random number",
+    "icon": "ion-pound",
+    "property_applications": {
+        "Background": true,
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAG": {
+            "caption": "Random Number",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "randomnumber",
+            "value": "number"
+        }
+    }
+}

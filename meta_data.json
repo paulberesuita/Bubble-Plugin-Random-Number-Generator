@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "productivity",
+        "2": "technical",
+        "3": "data (things)",
+        "4": "small business"
+    },
+    "data_tracked": false,
+    "demo_page": "https://tinybuild-random-number.bubbleapps.io/version-test",
+    "description": "Add a dynamic, customizable random number generator to your Bubble.io app with the Random Number plugin. This versatile tool allows you to generate random integers or floating-point numbers within specified minimum and maximum values, with customizable decimal places.\n\n[b]Features[/b]\n🔥 Generate random integers within a specified range  \n🔥 Generate floating-point numbers with customizable decimal places  \n🔥 Set input minimum and maximum values  \n🔥 Easy integration with Bubble.io workflows\n\n[url=https://tinybuild-random-number.bubbleapps.io/version-test][img width=149 height=44]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746379719437x844090521350097300/button-plugin-demo.png[/img][/url]  [url=https://bubble.io/page?id=tinybuild-random-number&tab=tabs-1&name=index][img width=149 height=44]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746379715663x925808806069093200/button-bubble-editor.png[/img][/url]\n\n\n[b]Need a new app or redesign?[/b]  \n[url=https://www.tinybuildstudio.com]Check us out at TinyBuild Studio[/url]  \n\n[url=https://www.tinybuildstudio.com][img width=600 height=234]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746370776107x944509712552664000/cover-tinybuild-studio.png[/img][/url]\n\n[b]Want to enhance your Bubble.io apps?[/b]  \n[url=https://www.tinyuikit.com]Check out TinyUIKit[/url]  \n\n[url=https://www.tinyuikit.com][img width=600 height=234]https://e1f25121b9909d912857ae47ce043a0b.cdn.bubble.io/f1746370772372x547570266262826800/cover-tinyuikit.png[/img][/url]\n",
+    "image": "//meta-q.cdn.bubble.io/f1746289432275x257224785315684830/random-number-min.png",
+    "license": "open_source",
+    "link": "https://www.tinybuildstudio.com",
+    "name": "Random Number Generator",
+    "plugin_instructions": "[b]How to Use[/b]\n1️⃣ Install the \"Random Number Generator\" plugin into your Bubble app from the plugins marketplace.\n2️⃣ Add the \"Random Number Generator\" action to your desired workflow.\n3️⃣ Configure the action's properties by setting the minimum and maximum values, selecting the number type (`Integer` or `Floating Point`), and specifying decimal places if needed.\n4️⃣ Use the \"randomnumber\" state on your plugin  to retrieve the random number that was generated.\n\nYou can see how the plugin is being used here:\n\nhttps://bubble.io/page?id=tinybuild-random-number&tab=tabs-1&name=index\n\n\n\n"
+}

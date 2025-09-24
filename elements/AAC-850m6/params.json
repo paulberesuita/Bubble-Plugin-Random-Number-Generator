@@ -2,8 +2,8 @@
     "add_is_visible": true,
     "category": "visual elements",
     "default_dim": {
-        "height": 10,
-        "width": 10
+        "height": 1,
+        "width": 1
     },
     "display": "random number",
     "icon": "ion-pound",

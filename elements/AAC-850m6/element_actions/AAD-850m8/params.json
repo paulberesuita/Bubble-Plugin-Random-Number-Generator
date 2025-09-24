@@ -1,5 +1,6 @@
 {
     "caption": "getRandomNumber",
+    "doc": "Generates a random number within the specified range. Choose between integer or floating-point numbers, set min/max values, and configure decimal places for precise control over the output.",
     "fields": {
         "AAE": {
             "caption": "Min",

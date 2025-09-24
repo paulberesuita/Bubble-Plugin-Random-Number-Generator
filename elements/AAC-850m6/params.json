@@ -15,6 +15,7 @@
     "states": {
         "AAG": {
             "caption": "Random Number",
+            "doc": "Contains the generated random number. Use this state to access the result after running the getRandomNumber action. Returns a number based on your min/max settings and type selection.",
             "initialization_code": {
                 "fn": "function(properties, context) {\n\n\n\n}"
             },
